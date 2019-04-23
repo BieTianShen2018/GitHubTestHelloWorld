@@ -1,2 +1,1 @@
-# GitHubTestHelloWorld 
-from branch one
+# GitHubTestHelloWorld
